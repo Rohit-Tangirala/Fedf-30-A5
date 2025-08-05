@@ -1,0 +1,76 @@
+.hero {
+    background-color: red;
+    border-radius: 15px;
+    border: 2px solid black;
+    margin: 10px 10px 15px 15px;
+    padding: 10px;
+}
+.hero h1{
+    text-align: center;
+    color: yellow;
+    font-family: Arial, sans-serif;
+}
+.hero p {
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+.hero2 {
+    width: 500px;
+    margin: auto;
+    border-radius: 15px;
+    border: 2px solid black;
+    padding: 10px;
+        background-color: red;
+
+}
+.hero2 h2 {
+    text-align: center;
+    color: yellow;
+    font-family: Arial, sans-serif;
+}
+.hero2 p {
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+header {
+    background-color: greenyellow;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+header h1 {
+    color: chocolate;
+    border: 7px solid lightblue;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    border-radius: 20px;
+}
+nav ul{
+ list-style-type: none;
+  background-color: greenyellow;
+  overflow: hidden;
+}
+nav li{
+    float: left;
+}
+nav a {
+    display: inline-block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav a:hover{
+    color: pink
+}
+footer 
+{
+    background-color:greenyellow;
+    color: black;
+    text-align: center;
+    padding: 10px 10px 10pxs 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
